@@ -1,5 +1,5 @@
 {
-    "name": "ivan1911/aws-sdk-php-laravel",
+    "name": "ivan1911/aws-sdk-php-laravel-freezed",
     "homepage": "https://github.com/ivan1911/aws-sdk-php-laravel",
     "description": "A simple Laravel 5 service provider for including the AWS SDK for PHP with fixed AWS library version.",
     "keywords": ["laravel", "laravel 5", "aws", "amazon", "sdk", "s3", "ec2", "dynamodb"],
